@@ -1,0 +1,18 @@
+{
+    "rItemsList": [{
+        "id": "1",
+        "img": "assets/images/home/recommend1.jpg",
+        "price": "$56",
+        "title": "Easy Polo Black Edition"
+    }, {
+        "id": "2",
+        "img": "assets/images/home/recommend2.jpg",
+        "price": "$56",
+        "title": "Easy Polo Black Edition"
+    }, {
+        "id": "3",
+        "img": "assets/images/home/recommend3.jpg",
+        "price": "$56",
+        "title": "Easy Polo Black Edition"
+    }]
+}

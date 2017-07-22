@@ -1,0 +1,23 @@
+<div>
+    <h2 ng-bind="title"></h2>
+    <div class="panel-group category-products" id="accordian">
+        <div class="panel panel-default" ng-repeat="leftMenu in category">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordian" href="#{{leftMenu.type}}">
+                        <span class="badge pull-right" ng-show="{{leftMenu.link && leftMenu.link.length}}"><i class="fa fa-plus"></i></span> <span ng-bind="leftMenu.type"></span>
+                    </a>
+                </h4>
+            </div>
+
+            <div id="{{leftMenu.type}}" class="panel-collapse collapse" ng-show="{{leftMenu.link && leftMenu.link.length}}">
+                <div class="panel-body">
+                    <ul>
+                        <li ng-repeat="link in leftMenu.link">
+                            <a href="#" ng-bind="link.title"></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>

@@ -1,0 +1,24 @@
+{
+    "headerTopLinks": [{
+        "id": "1",
+        "socialIcons": "<i class='fa fa-facebook'></i>",
+        "title": "Facebook"
+    }, {
+        "id": "2",
+        "socialIcons": "<i class='fa fa-twitter'></i>",
+        "title": "Twitter"
+    }, {
+        "id": "3",
+        "socialIcons": "<i class='fa fa-linkedin'></i>",
+        "title": "Linkedin"
+    }, {
+        "id": "4",
+        "socialIcons": "<i class='fa fa-dribbble'></i>",
+        "title": "Dribbble"
+    }, {
+        "id": "4",
+        "socialIcons": "<i class='fa fa-google-plus'></i>",
+        "title": "Google Plus"
+    }]
+
+}

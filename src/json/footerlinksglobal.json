@@ -1,0 +1,43 @@
+{
+
+"service":[
+
+{ "id":"1", "MenuName":"Online Help"},
+{ "id":"2", "MenuName":"Contact Us"},
+{ "id":"3", "MenuName":"Order Status"},
+{ "id":"4", "MenuName":"Change Location"},
+{ "id":"5", "MenuName":"FAQ’s"}
+
+],
+
+"quickshop":[
+
+{"id":"1", "MenuName": "T-Shirt"},
+{"id":"2", "MenuName": "Mens"},
+{"id":"3", "MenuName": "Womens"},
+{"id":"4", "MenuName": "Gift Cards"},
+{"id":"5", "MenuName": "Shoes"}
+
+],
+
+"policy":[
+
+{"id":"1", "MenuName": "Terms of Use"},
+{"id":"2", "MenuName": "Privecy Policy"},
+{"id":"3", "MenuName": "Refund Policy"},
+{"id":"4", "MenuName": "Billing System"},
+{"id":"5", "MenuName": "Ticket System"}
+
+],
+
+"aboutshopper": [
+
+{"id":"1", "MenuName": "Company Information"},
+{"id":"2", "MenuName": "Careers"},
+{"id":"3", "MenuName": "Store Location"},
+{"id":"4", "MenuName": "Affillate Program"},
+{"id":"5", "MenuName": "Copyright"}
+
+]
+
+}

@@ -1,0 +1,8 @@
+<div class="brands-name">
+    <ul class="nav nav-pills nav-stacked">
+        <li ng-repeat="(key, value) in brands">
+            <!-- Key & value for array is left for key & value right -->
+            <a href="#"> <span class="pull-right">{{value.length}}</span><span ng-bind="key"></span></a>
+        </li>
+    </ul>
+</div>

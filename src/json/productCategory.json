@@ -1,0 +1,86 @@
+{
+    "LeftNav": [{
+        "type": "SPORTSWEAR",
+        "link": [{
+            "id": "1",
+            "title": "NIKE"
+        }, {
+            "id": "2",
+            "title": "UNDER ARMOUR"
+        }, {
+            "id": "3",
+            "title": "ADIDAS"
+        }, {
+            "id": "4",
+            "title": "PUMA"
+        }, {
+            "id": "5",
+            "title": "ASICS"
+        }]
+    }, {
+        "type": "MENS",
+        "link": [{
+            "id": "1",
+            "title": "FENDI"
+        }, {
+            "id": "2",
+            "title": "GUESS"
+        }, {
+            "id": "3",
+            "title": "VALENTINO"
+        }, {
+            "id": "4",
+            "title": "DIOR"
+        }, {
+            "id": "5",
+            "title": "VERSACE"
+        }, {
+            "id": "6",
+            "title": "ARMANI"
+        }, {
+            "id": "7",
+            "title": "PRADA"
+        }, {
+            "id": "8",
+            "title": " DOLCE AND GABBANA"
+        }, {
+            "id": "9",
+            "title": "CHANEL"
+        }, {
+            "id": 10,
+            "title": "GUCCI"
+        }]
+    }, {
+        "type": "WOMENS",
+        "links": [{
+            "id": "1",
+            "title": "FENDI"
+        }, {
+            "id": "2",
+            "title": " GUESS"
+        }, {
+            "id": "3",
+            "title": "VALENTINO"
+        }, {
+            "id": "4",
+            "title": "DIOR"
+        }, {
+            "id": "5",
+            "title": "VERSACE"
+        }]
+    }, {
+        "type": "KIDS"
+    }, {
+        "type": "FASHION"
+    }, {
+        "type": "HOUSEHOLDS"
+    }, {
+        "type": "INTERIORS"
+    }, {
+        "type": "CLOTHING"
+    }, {
+        "type": "BAGS"
+    }, {
+        "type": "SHOES"
+    }]
+}

@@ -1,0 +1,26 @@
+
+{
+   "eshoppervideo":[
+      {
+         "id":"1",
+         "iframeImg":"assets/images/home/iframe1.png",
+         "title1":"Circle of Hands",
+         "title2":"24 DEC 2014"
+      },{
+         "id":"2",
+         "iframeImg":"assets/images/home/iframe2.png",
+         "title1":"Circle of Hands",
+         "title2":"24 DEC 2014"
+      },{
+         "id":"3",
+         "iframeImg":"assets/images/home/iframe3.png",
+         "title1":"Circle of Hands",
+         "title2":"24 DEC 2014"
+      }, {
+         "id":"4",
+         "iframeImg":"assets/images/home/iframe4.png",
+         "title1":"Circle of Hands",
+         "title2":"24 DEC 2014"
+      }
+   ]
+}

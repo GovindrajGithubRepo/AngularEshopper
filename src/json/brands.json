@@ -1,0 +1,51 @@
+{
+    "Acne": [{
+        "id": "1",
+        "title": "HOUSEHOLDS",
+        "categoryMenu": "HOUSEHOLDS"
+
+    }, {
+        "id": "2",
+        "title": "HOUSEHOLDS",
+        "categoryMenu": "HOUSEHOLDS"
+
+    }, {
+        "id": "3",
+        "title": "HOUSEHOLDS",
+        "categoryMenu": "HOUSEHOLDS"
+
+    }, {
+        "id": "4",
+        "title": "HOUSEHOLDS",
+        "categoryMenu": "HOUSEHOLDS"
+
+    }, {
+        "id": "5",
+        "title": "HOUSEHOLDS",
+        "categoryMenu": "HOUSEHOLDS"
+
+    }, {
+        "id": "6",
+        "title": "HOUSEHOLDS",
+        "categoryMenu": "HOUSEHOLDS"
+
+    }],
+
+    "Grüne Erde": [{
+        "id": "1",
+        "title": "HOUSEHOLDS",
+        "categoryMenu": "HOUSEHOLDS"
+
+    }, {
+        "id": "2",
+        "title": "HOUSEHOLDS",
+        "categoryMenu": "HOUSEHOLDS"
+
+    }, {
+        "id": "3",
+        "title": "HOUSEHOLDS",
+        "categoryMenu": "HOUSEHOLDS"
+
+    }]
+
+}

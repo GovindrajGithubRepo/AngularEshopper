@@ -1,0 +1,119 @@
+{
+    "categoryAllList": [{
+        "type": "T-Shirt",
+        "links": [{
+            "id": "1",
+            "img": "assets/images/home/gallery1.jpg",
+            "price": "$56",
+            "title": "Easy Polo Black Edition"
+        }, {
+            "id": "2",
+            "img": "assets/images/home/gallery2.jpg",
+            "price": "$56",
+            "title": "Easy Polo Black Edition"
+        }, {
+            "id": "3",
+            "img": "assets/images/home/gallery3.jpg",
+            "price": "$56",
+            "title": "Easy Polo Black Edition"
+        }, {
+            "id": "4",
+            "img": "assets/images/home/gallery4.jpg",
+            "price": "$56",
+            "title": "Easy Polo Black Edition"
+        }]
+    }, {
+        "type": "Blazers",
+        "links": [{
+            "id": "1",
+            "img": "assets/images/home/gallery4.jpg",
+            "price": "$56",
+            "title": "Easy Polo Black Edition"
+        }, {
+            "id": "2",
+            "img": "assets/images/home/gallery3.jpg",
+            "price": "$56",
+            "title": "Easy Polo Black Edition"
+        }, {
+            "id": "3",
+            "img": "assets/images/home/gallery2.jpg",
+            "price": "$56",
+            "title": "Easy Polo Black Edition"
+        }, {
+            "id": "4",
+            "img": "assets/images/home/gallery1.jpg",
+            "price": "$56",
+            "title": "Easy Polo Black Edition"
+        }]
+    }, {
+        "type": "Sunglass",
+        "links": [{
+            "id": "1",
+            "img": "assets/images/home/gallery3.jpg",
+            "price": "$56",
+            "title": "Easy Polo Black Edition"
+        }, {
+            "id": "2",
+            "img": "assets/images/home/gallery4.jpg",
+            "price": "$56",
+            "title": "Easy Polo Black Edition"
+        }, {
+            "id": "3",
+            "img": "assets/images/home/gallery1.jpg",
+            "price": "$56",
+            "title": "Easy Polo Black Edition"
+        }, {
+            "id": "4",
+            "img": "assets/images/home/gallery2.jpg",
+            "price": "$56",
+            "title": "Easy Polo Black Edition"
+        }]
+    }, {
+        "type": "kids",
+        "links": [{
+            "id": "1",
+            "img": "assets/images/home/gallery1.jpg",
+            "price": "$56",
+            "title": "Easy Polo Black Edition"
+        }, {
+            "id": "2",
+            "img": "assets/images/home/gallery2.jpg",
+            "price": "$56",
+            "title": "Easy Polo Black Edition"
+        }, {
+            "id": "3",
+            "img": "assets/images/home/gallery3.jpg",
+            "price": "$56",
+            "title": "Easy Polo Black Edition"
+        }, {
+            "id": "4",
+            "img": "assets/images/home/gallery4.jpg",
+            "price": "$56",
+            "title": "Easy Polo Black Edition"
+        }]
+
+    }, {
+        "type": "Polo Shirt",
+        "links": [{
+            "id": "1",
+            "img": "assets/images/home/gallery2.jpg",
+            "price": "$56",
+            "title": "Easy Polo Black Edition"
+        }, {
+            "id": "1",
+            "img": "assets/images/home/gallery4.jpg",
+            "price": "$56",
+            "title": "Easy Polo Black Edition"
+        }, {
+            "id": "1",
+            "img": "assets/images/home/gallery3.jpg",
+            "price": "$56",
+            "title": "Easy Polo Black Edition"
+        }, {
+            "id": "1",
+            "img": "assets/images/home/gallery1.jpg",
+            "price": "$56",
+            "title": "Easy Polo Black Edition"
+        }]
+    }]
+}

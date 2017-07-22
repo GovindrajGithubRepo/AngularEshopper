@@ -1,0 +1,26 @@
+<div class="category-tab">
+    <!--category-tab-->
+    <div class="col-sm-12">
+        <ul class="nav nav-tabs">
+            <li ng-repeat="category in categorytab" ng-class="{active:!$index}">
+                <a href="#{{category.type}}" data-toggle="tab">{{category.type}}</a>
+            </li>
+        </ul>
+    </div>
+    <div class="tab-content">
+        <div class="tab-pane fade in" id="{{category.type}}" ng-class="{active:!$index}" ng-repeat="category in categorytab">
+            <div class="col-sm-3" ng-repeat="categorylinks in category.links ">
+                <div class="product-image-wrapper">
+                    <div class="single-products">
+                        <div class="productinfo text-center">
+                            <img ng-src="{{categorylinks.img}}" alt="" />
+                            <h2 ng-bind="categorylinks.price"></h2>
+                            <p ng-bind="categorylinks.title"></p>
+                            <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

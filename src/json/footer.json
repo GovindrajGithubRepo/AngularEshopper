@@ -1,0 +1,112 @@
+{
+    "topLeftEshopper": {
+        "title": "<span>e</span>-shopper",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit,sed do eiusmod tempor"
+    },
+
+    "footerTopRightContent": [{
+        "id": "1",
+        "img": "assets/images/home/iframe1.png",
+        "title": "Circle of Hands",
+        "subtitle": "24 DEC 2014"
+    }, {
+        "id": "2",
+        "img": "assets/images/home/iframe2.png",
+        "title": "Circle of Hands",
+        "subtitle": "24 DEC 2014"
+    }, {
+        "id": "3",
+        "img": "assets/images/home/iframe3.png",
+        "title": "Circle of Hands",
+        "subtitle": "24 DEC 2014"
+    }, {
+        "id": "4",
+        "img": "assets/images/home/iframe4.png",
+        "title": "Circle of Hands",
+        "subtitle": "24 DEC 2014"
+    }],
+
+    "map": {
+        "map": "assets/images/home/map.png",
+        "maptitle": "505 S Atlantic Ave Virginia Beach, VA(Virginia)"
+    },
+
+    "middleLinks": [{
+        "type": "SERVICE",
+        "links": [{
+            "id": "1",
+            "linktext": "Online Help"
+        }, {
+            "id": "2",
+            "linktext": "Contact Us"
+        }, {
+            "id": "3",
+            "linktext": "Order Status"
+        }, {
+            "id": "4",
+            "linktext": "Change Location"
+        }, {
+            "id": "5",
+            "linktext": "FAQ’s"
+        }]
+    }, {
+        "type": "QUICK SHOP",
+        "links": [{
+            "id": "1",
+            "linktext": "T-Shirt"
+        }, {
+            "id": "2",
+            "linktext": "Mens"
+        }, {
+            "id": "3",
+            "linktext": "Womens"
+        }, {
+            "id": "4",
+            "linktext": "Gift Cards"
+        }, {
+            "id": "5",
+            "linktext": "Shoes"
+        }]
+    }, {
+        "type": "POLICIES",
+        "links": [{
+            "id": "1",
+            "linktext": "Terms of Use"
+        }, {
+            "id": "2",
+            "linktext": "Privecy Policy"
+        }, {
+            "id": "3",
+            "linktext": "Refund Policy"
+        }, {
+            "id": "4",
+            "linktext": "Billing System"
+        }, {
+            "id": "5",
+            "linktext": "Ticket System"
+        }]
+    }, {
+        "type": "ABOUT SHOPPER",
+        "links": [{
+            "id": "1",
+            "linktext": "Company Information"
+        }, {
+            "id": "2",
+            "linktext": "Careers"
+        }, {
+            "id": "3",
+            "linktext": "Store Location"
+        }, {
+            "id": "4",
+            "linktext": "Affillate Program"
+        }, {
+            "id": "5",
+            "linktext": "Copyright"
+        }]
+    }],
+
+    "footerLink": {
+        "copyrighttext": "Copyright @ 2013 E-SHOPPER Inc. All rights reserved.",
+        "ownerofsite": "Designed by <span><a href='http://www.themeum.com' target='blank'>Themeum</a></span>"
+    }
+}
